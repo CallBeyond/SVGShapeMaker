@@ -16,7 +16,7 @@ Week 10 Assignment built from scrath. After answering a few questions a logo wil
 
 ## Installation
 
-Clone the repository, run ```npm i```, then ```node index.js```.]
+Clone the repository, run ```npm i```, then ```node index.js```.
 
 ## Usage
 
