@@ -4,7 +4,7 @@
 
 ## Description
 
-Week 10 Assignment built from scrath. After answering a few questions a logo will be generated!
+Week 10 Assignment built from scratch. After answering a few questions a logo will be generated!
 
 ## Table of Contents
 
